@@ -1,6 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import numpy as np
 import pickle
 from lime.lime_text import LimeTextExplainer
 from sklearn.pipeline import make_pipeline
